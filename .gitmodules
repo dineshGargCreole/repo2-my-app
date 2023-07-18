@@ -1,0 +1,3 @@
+[submodule "path/to/app1"]
+	path = path/to/app1
+	url = https://github.com/dineshGargCreole/repo1-test-app
